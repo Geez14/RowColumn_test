@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Row_col</string>
+    <string name="firstTitle">Text composable</string>
+    <string name="firstContent">Displays text and follows Material Design guidelines.</string>
+    <string name="secondTitle">Image composable</string>
+    <string name="secondContent">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="thirdTitle">Row composable</string>
+    <string name="thirdContent">A layout composable that places its children in a horizontal sequence.</string>
+    <string name="fourthTitle">Column composable</string>
+    <string name="fourthContent">A layout composable that places its children in a vertical sequence.</string>
+</resources>
